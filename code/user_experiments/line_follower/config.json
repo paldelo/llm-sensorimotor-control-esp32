@@ -1,0 +1,30 @@
+{
+  "experiment": {
+    "prompt": [
+      "CreateStrategyCompareUpdate"
+    ],
+    "steps_memory": 15,
+    "num_trials": 4,
+    "estimate_reward_trials": 1,
+    "generate_videos": false
+  },
+  "llm": {
+    "llm_type": "ollama",
+    "llm_id": [
+      "llama3"
+    ],
+    "llm_id_coder": [
+      "llama3"
+    ],
+    "temperature": [
+      0.7
+    ],
+    "seed": [
+      42
+    ],
+    "server_address": "http://127.0.0.1:11434/api"
+  },
+  "environment": {
+    "environment_name": "fisico"
+  }
+}

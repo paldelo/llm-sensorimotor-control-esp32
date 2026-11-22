@@ -1,0 +1,65 @@
+trial_number,step,observation,action,reward,cum_reward,experiment_prompt,experiment_steps_memory,experiment_num_trials,experiment_estimate_reward_trials,experiment_generate_videos,llm_llm_type,llm_llm_id,llm_temperature,llm_seed,llm_llm_id_coder,llm_server_address,environment_environment_name
+0,1,[1. 1.],"[255, 255]",1.0,6.399999999999999,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+0,2,[1. 1.],"[255, 255]",0.2,6.399999999999999,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+0,3,[1. 0.],"[-255, 255]",1.0,6.399999999999999,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+0,4,[1. 1.],"[255, 255]",1.0,6.399999999999999,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+0,5,[1. 1.],"[255, 255]",1.0,6.399999999999999,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+0,6,[1. 1.],"[255, 255]",1.0,6.399999999999999,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+0,7,[1. 1.],"[255, 255]",1.0,6.399999999999999,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+0,8,[1. 1.],"[255, 255]",1.0,6.399999999999999,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+0,9,[1. 1.],"[255, 255]",1.0,6.399999999999999,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+0,10,[1. 1.],"[255, 255]",0.2,6.399999999999999,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+0,11,[1. 0.],"[-255, 255]",-1.0,6.399999999999999,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+0,12,[0. 0.],"[255, 255]",-1.0,6.399999999999999,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+0,13,[0. 0.],,-1.0,6.399999999999999,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,1,[1. 1.],"[255, 255]",0.2,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,2,[0. 1.],"[255, -255]",1.0,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,3,[1. 1.],"[255, 255]",1.0,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,4,[1. 1.],"[255, 255]",1.0,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,5,[1. 1.],"[255, 255]",1.0,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,6,[1. 1.],"[255, 255]",1.0,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,7,[1. 1.],"[255, 255]",1.0,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,8,[1. 1.],"[255, 255]",1.0,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,9,[1. 1.],"[255, 255]",0.2,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,10,[0. 1.],"[255, -255]",1.0,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,11,[1. 1.],"[255, 255]",0.2,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,12,[0. 1.],"[255, -255]",1.0,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,13,[1. 1.],"[255, 255]",0.2,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,14,[0. 1.],"[255, -255]",1.0,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,15,[1. 1.],"[255, 255]",0.2,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,16,[0. 1.],"[255, -255]",1.0,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,17,[1. 1.],"[255, 255]",0.2,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,18,[0. 1.],"[255, -255]",1.0,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,19,[1. 1.],"[255, 255]",1.0,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,20,[1. 1.],"[255, 255]",0.2,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+1,21,[0. 1.],,0.2,14.399999999999997,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+2,1,[1. 1.],"[255, 255]",1.0,5.4,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+2,2,[1. 1.],"[255, 255]",0.2,5.4,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+2,3,[1. 0.],"[-255, 255]",1.0,5.4,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+2,4,[1. 1.],"[255, 255]",1.0,5.4,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+2,5,[1. 1.],"[255, 255]",1.0,5.4,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+2,6,[1. 1.],"[255, 255]",1.0,5.4,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+2,7,[1. 1.],"[255, 255]",1.0,5.4,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+2,8,[1. 1.],"[255, 255]",1.0,5.4,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+2,9,[1. 1.],"[255, 255]",0.2,5.4,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+2,10,[1. 0.],"[-255, 255]",-1.0,5.4,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+2,11,[0. 0.],"[255, 255]",-1.0,5.4,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+2,12,[0. 0.],,-1.0,5.4,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+3,1,[1. 1.],"[255, 255]",0.2,10.599999999999998,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+3,2,[1. 0.],"[-255, 255]",1.0,10.599999999999998,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+3,3,[1. 1.],"[255, 255]",1.0,10.599999999999998,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+3,4,[1. 1.],"[255, 255]",1.0,10.599999999999998,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+3,5,[1. 1.],"[255, 255]",1.0,10.599999999999998,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+3,6,[1. 1.],"[255, 255]",1.0,10.599999999999998,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+3,7,[1. 1.],"[255, 255]",1.0,10.599999999999998,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+3,8,[1. 1.],"[255, 255]",1.0,10.599999999999998,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+3,9,[1. 1.],"[255, 255]",1.0,10.599999999999998,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+3,10,[1. 1.],"[255, 255]",1.0,10.599999999999998,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+3,11,[1. 1.],"[255, 255]",1.0,10.599999999999998,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+3,12,[1. 1.],"[255, 255]",1.0,10.599999999999998,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+3,13,[1. 1.],"[255, 255]",1.0,10.599999999999998,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+3,14,[1. 1.],"[255, 255]",0.2,10.599999999999998,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+3,15,[1. 0.],"[-255, 255]",0.2,10.599999999999998,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+3,16,[1. 0.],"[-255, 255]",-1.0,10.599999999999998,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+3,17,[0. 0.],"[255, 255]",-1.0,10.599999999999998,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
+3,18,[0. 0.],,-1.0,10.599999999999998,CreateStrategyCompareUpdate,15,4,1,False,ollama,llama3,0.7,42,llama3,http://127.0.0.1:11434/api,fisico
